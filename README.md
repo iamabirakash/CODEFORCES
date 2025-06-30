@@ -13,3 +13,4 @@
 5. [Sort the String](https://github.com/iamabirakash/CODEFORCES/tree/main/Sort%20the%20String) 1112
 6. [Football](https://github.com/iamabirakash/CODEFORCES/tree/main/Football) 1102
 7. [Chef and Two Strings](https://github.com/iamabirakash/CODEFORCES/tree/main/Chef%20and%20Two%20Strings) 1036
+8. [Easy Pronunciation](https://github.com/iamabirakash/CODEFORCES/tree/main/Easy%20Pronunciation) 1000
