@@ -11,3 +11,4 @@
 3. [Balanced and Unique Arrays](https://github.com/iamabirakash/CODEFORCES/tree/main/Balanced%20and%20Unique%20Arrays) 1431
 4. [String Game](https://github.com/iamabirakash/CODEFORCES/tree/main/String%20Game) 1413
 5. [Sort the String](https://github.com/iamabirakash/CODEFORCES/tree/main/Sort%20the%20String) 1112
+6. [Football](https://github.com/iamabirakash/CODEFORCES/tree/main/Football) 1102
