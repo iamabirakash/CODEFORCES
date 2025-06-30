@@ -6,4 +6,5 @@
 
 ------------------------------------------------------------------------------------
 
-1.[Average Permutation](https://github.com/iamabirakash/CODEFORCES/tree/main/Average%20Permutation) 1401
+1. [Average Permutation](https://github.com/iamabirakash/CODEFORCES/tree/main/Average%20Permutation) 1401
+2. [Gcd of Subarrays](https://github.com/iamabirakash/CODEFORCES/tree/main/GCD) 1498
