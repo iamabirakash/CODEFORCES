@@ -8,3 +8,4 @@
 
 1. [Average Permutation](https://github.com/iamabirakash/CODEFORCES/tree/main/Average%20Permutation) 1401
 2. [Gcd of Subarrays](https://github.com/iamabirakash/CODEFORCES/tree/main/GCD) 1498
+3. [Balanced and Unique Arrays](https://github.com/iamabirakash/CODEFORCES/tree/main/Balanced%20and%20Unique%20Arrays) 1431
