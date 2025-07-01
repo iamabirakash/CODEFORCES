@@ -19,3 +19,4 @@
 11. [Array Halves](https://github.com/iamabirakash/CODEFORCES/tree/main/Array%20Halves) 1407
 12. [Trace of Matrix](https://github.com/iamabirakash/CODEFORCES/tree/main/Trace%20of%20Matrix) 1198
 13. [Ups and Downs](https://github.com/iamabirakash/CODEFORCES/tree/main/Ups%20and%20Downs) 1198
+14. [Encoding Message](https://github.com/iamabirakash/CODEFORCES/tree/main/Encoding%20Message) 1027
