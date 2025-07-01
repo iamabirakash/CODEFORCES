@@ -21,3 +21,4 @@
 13. [Ups and Downs](https://github.com/iamabirakash/CODEFORCES/tree/main/Ups%20and%20Downs) 1198
 14. [Encoding Message](https://github.com/iamabirakash/CODEFORCES/tree/main/Encoding%20Message) 1027
 15. [Zero String](https://github.com/iamabirakash/CODEFORCES/tree/main/ZERO%20STRING) 1042
+16. [Pseudo Sorted Array](https://github.com/iamabirakash/CODEFORCES/tree/main/Pseudo%20Sorted%20Array) 1067
