@@ -22,3 +22,4 @@
 14. [Encoding Message](https://github.com/iamabirakash/CODEFORCES/tree/main/Encoding%20Message) 1027
 15. [Zero String](https://github.com/iamabirakash/CODEFORCES/tree/main/ZERO%20STRING) 1042
 16. [Pseudo Sorted Array](https://github.com/iamabirakash/CODEFORCES/tree/main/Pseudo%20Sorted%20Array) 1067
+17. [Anti Palindrome](https://github.com/iamabirakash/CODEFORCES/tree/main/Anti%20Palindrome) 1488
