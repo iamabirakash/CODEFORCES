@@ -14,3 +14,4 @@
 6. [Football](https://github.com/iamabirakash/CODEFORCES/tree/main/Football) 1102
 7. [Chef and Two Strings](https://github.com/iamabirakash/CODEFORCES/tree/main/Chef%20and%20Two%20Strings) 1036
 8. [Easy Pronunciation](https://github.com/iamabirakash/CODEFORCES/tree/main/Easy%20Pronunciation) 1000
+9. [Alternating Divisibility](https://github.com/iamabirakash/CODEFORCES/tree/main/Alternating%20Divisibility) 1483
