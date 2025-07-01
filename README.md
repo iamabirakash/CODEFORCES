@@ -16,3 +16,4 @@
 8. [Easy Pronunciation](https://github.com/iamabirakash/CODEFORCES/tree/main/Easy%20Pronunciation) 1000
 9. [Alternating Divisibility](https://github.com/iamabirakash/CODEFORCES/tree/main/Alternating%20Divisibility) 1483
 10. [HTML Tags](https://github.com/iamabirakash/CODEFORCES/tree/main/HTML%20Tags) 1441
+11. [Array Halves](https://github.com/iamabirakash/CODEFORCES/tree/main/Array%20Halves) 1407
