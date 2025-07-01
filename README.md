@@ -18,3 +18,4 @@
 10. [HTML Tags](https://github.com/iamabirakash/CODEFORCES/tree/main/HTML%20Tags) 1441
 11. [Array Halves](https://github.com/iamabirakash/CODEFORCES/tree/main/Array%20Halves) 1407
 12. [Trace of Matrix](https://github.com/iamabirakash/CODEFORCES/tree/main/Trace%20of%20Matrix) 1198
+13. [Ups and Downs](https://github.com/iamabirakash/CODEFORCES/tree/main/Ups%20and%20Downs) 1198
