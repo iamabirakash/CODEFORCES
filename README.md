@@ -15,13 +15,14 @@
 7. [Pseudo Sorted Array](https://github.com/iamabirakash/CODEFORCES/tree/main/Pseudo%20Sorted%20Array) 1067
 8. [Football](https://github.com/iamabirakash/CODEFORCES/tree/main/Football) 1102
 9. [Sort the String](https://github.com/iamabirakash/CODEFORCES/tree/main/Sort%20the%20String) 1112
-10. [Trace of Matrix](https://github.com/iamabirakash/CODEFORCES/tree/main/Trace%20of%20Matrix) 1198
-11. [Ups and Downs](https://github.com/iamabirakash/CODEFORCES/tree/main/Ups%20and%20Downs) 1198
-12. [Average Permutation](https://github.com/iamabirakash/CODEFORCES/tree/main/Average%20Permutation) 1401
-13. [Array Halves](https://github.com/iamabirakash/CODEFORCES/tree/main/Array%20Halves) 1407
-14. [String Game](https://github.com/iamabirakash/CODEFORCES/tree/main/String%20Game) 1413
-15. [Balanced and Unique Arrays](https://github.com/iamabirakash/CODEFORCES/tree/main/Balanced%20and%20Unique%20Arrays) 1431
-16. [HTML Tags](https://github.com/iamabirakash/CODEFORCES/tree/main/HTML%20Tags) 1441
-17. [Alternating Divisibility](https://github.com/iamabirakash/CODEFORCES/tree/main/Alternating%20Divisibility) 1483
-18. [Anti Palindrome](https://github.com/iamabirakash/CODEFORCES/tree/main/Anti%20Palindrome) 1488
-19. [Gcd of Subarrays](https://github.com/iamabirakash/CODEFORCES/tree/main/GCD) 1498
+10. [Processing a string](https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/KOL15A) 1125
+11. [Trace of Matrix](https://github.com/iamabirakash/CODEFORCES/tree/main/Trace%20of%20Matrix) 1198
+12. [Ups and Downs](https://github.com/iamabirakash/CODEFORCES/tree/main/Ups%20and%20Downs) 1198
+13. [Average Permutation](https://github.com/iamabirakash/CODEFORCES/tree/main/Average%20Permutation) 1401
+14. [Array Halves](https://github.com/iamabirakash/CODEFORCES/tree/main/Array%20Halves) 1407
+15. [String Game](https://github.com/iamabirakash/CODEFORCES/tree/main/String%20Game) 1413
+16. [Balanced and Unique Arrays](https://github.com/iamabirakash/CODEFORCES/tree/main/Balanced%20and%20Unique%20Arrays) 1431
+17. [HTML Tags](https://github.com/iamabirakash/CODEFORCES/tree/main/HTML%20Tags) 1441
+18. [Alternating Divisibility](https://github.com/iamabirakash/CODEFORCES/tree/main/Alternating%20Divisibility) 1483
+19. [Anti Palindrome](https://github.com/iamabirakash/CODEFORCES/tree/main/Anti%20Palindrome) 1488
+20. [Gcd of Subarrays](https://github.com/iamabirakash/CODEFORCES/tree/main/GCD) 1498
