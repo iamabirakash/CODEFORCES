@@ -28,5 +28,6 @@
 20. [HTML Tags](https://github.com/iamabirakash/CODEFORCES/tree/main/HTML%20Tags) 1441
 21. [Alternating Divisibility](https://github.com/iamabirakash/CODEFORCES/tree/main/Alternating%20Divisibility) 1483
 22. [Anti Palindrome](https://github.com/iamabirakash/CODEFORCES/tree/main/Anti%20Palindrome) 1488
-23. [Gcd of Subarrays](https://github.com/iamabirakash/CODEFORCES/tree/main/GCD) 1498
-24. [Total Correct Submissions](https://github.com/iamabirakash/CODEFORCES/tree/main/Total%20Correct%20Submissions)
+23. [Exactly N plus 1 Values](https://github.com/iamabirakash/CODEFORCES/tree/main/Exactly%20N%20plus%201%20Values)
+24. [Gcd of Subarrays](https://github.com/iamabirakash/CODEFORCES/tree/main/GCD) 1498
+25. [Total Correct Submissions](https://github.com/iamabirakash/CODEFORCES/tree/main/Total%20Correct%20Submissions)
