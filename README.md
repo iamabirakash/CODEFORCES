@@ -8,7 +8,7 @@
 
 1. [Easy Pronunciation](https://github.com/iamabirakash/CODEFORCES/tree/main/Easy%20Pronunciation) 1000
 2. [Adjacent Sum Parity](https://github.com/iamabirakash/CODEFORCES/tree/main/Adjacent%20Sum%20Parity) 1013
-3. [Chef Diet](https://github.com/iamabirakash/CODEFORCES/tree/main/Chef%20Diet)
+3. [Chef Diet](https://github.com/iamabirakash/CODEFORCES/tree/main/Chef%20Diet) 1025
 4. [Encoding Message](https://github.com/iamabirakash/CODEFORCES/tree/main/Encoding%20Message) 1027
 5. [Chef and Two Strings](https://github.com/iamabirakash/CODEFORCES/tree/main/Chef%20and%20Two%20Strings) 1036
 6. [Zero String](https://github.com/iamabirakash/CODEFORCES/tree/main/ZERO%20STRING) 1042
@@ -17,7 +17,7 @@
 9. [Football](https://github.com/iamabirakash/CODEFORCES/tree/main/Football) 1102
 10. [Sort the String](https://github.com/iamabirakash/CODEFORCES/tree/main/Sort%20the%20String) 1112
 11. [Processing a string](https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/KOL15A) 1125
-12. [Retrieve the Array](https://github.com/iamabirakash/CODEFORCES/tree/main/Retrieve%20the%20Array)
+12. [Retrieve the Array](https://github.com/iamabirakash/CODEFORCES/tree/main/Retrieve%20the%20Array) 1193
 13. [Convert to permutation](https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/PERMUTATION?tab=statement) 1197
 14. [Trace of Matrix](https://github.com/iamabirakash/CODEFORCES/tree/main/Trace%20of%20Matrix) 1198
 15. [Ups and Downs](https://github.com/iamabirakash/CODEFORCES/tree/main/Ups%20and%20Downs) 1198
