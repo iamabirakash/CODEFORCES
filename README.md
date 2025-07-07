@@ -29,3 +29,4 @@
 21. [Alternating Divisibility](https://github.com/iamabirakash/CODEFORCES/tree/main/Alternating%20Divisibility) 1483
 22. [Anti Palindrome](https://github.com/iamabirakash/CODEFORCES/tree/main/Anti%20Palindrome) 1488
 23. [Gcd of Subarrays](https://github.com/iamabirakash/CODEFORCES/tree/main/GCD) 1498
+24. [Total Correct Submissions](https://github.com/iamabirakash/CODEFORCES/tree/main/Total%20Correct%20Submissions)
