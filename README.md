@@ -24,11 +24,12 @@
 16. [Average Permutation](https://github.com/iamabirakash/CODEFORCES/tree/main/Average%20Permutation) 1401
 17. [Array Halves](https://github.com/iamabirakash/CODEFORCES/tree/main/Array%20Halves) 1407
 18. [String Game](https://github.com/iamabirakash/CODEFORCES/tree/main/String%20Game) 1413
-19. [Balanced and Unique Arrays](https://github.com/iamabirakash/CODEFORCES/tree/main/Balanced%20and%20Unique%20Arrays) 1431
-20. [Akash and Dinner](https://github.com/iamabirakash/CODEFORCES/tree/main/Akash%20and%20Dinner)
-21. [HTML Tags](https://github.com/iamabirakash/CODEFORCES/tree/main/HTML%20Tags) 1441
-22. [Alternating Divisibility](https://github.com/iamabirakash/CODEFORCES/tree/main/Alternating%20Divisibility) 1483
-23. [Anti Palindrome](https://github.com/iamabirakash/CODEFORCES/tree/main/Anti%20Palindrome) 1488
-24. [Exactly N plus 1 Values](https://github.com/iamabirakash/CODEFORCES/tree/main/Exactly%20N%20plus%201%20Values) 1499
-25. [Gcd of Subarrays](https://github.com/iamabirakash/CODEFORCES/tree/main/GCD) 1498
-26. [Total Correct Submissions](https://github.com/iamabirakash/CODEFORCES/tree/main/Total%20Correct%20Submissions)
+19. [Average Array](https://github.com/iamabirakash/CODEFORCES/tree/main/Average%20Array)
+20. [Balanced and Unique Arrays](https://github.com/iamabirakash/CODEFORCES/tree/main/Balanced%20and%20Unique%20Arrays) 1431
+21. [Akash and Dinner](https://github.com/iamabirakash/CODEFORCES/tree/main/Akash%20and%20Dinner)
+22. [HTML Tags](https://github.com/iamabirakash/CODEFORCES/tree/main/HTML%20Tags) 1441
+23. [Alternating Divisibility](https://github.com/iamabirakash/CODEFORCES/tree/main/Alternating%20Divisibility) 1483
+24. [Anti Palindrome](https://github.com/iamabirakash/CODEFORCES/tree/main/Anti%20Palindrome) 1488
+25. [Exactly N plus 1 Values](https://github.com/iamabirakash/CODEFORCES/tree/main/Exactly%20N%20plus%201%20Values) 1499
+26. [Gcd of Subarrays](https://github.com/iamabirakash/CODEFORCES/tree/main/GCD) 1498
+27. [Total Correct Submissions](https://github.com/iamabirakash/CODEFORCES/tree/main/Total%20Correct%20Submissions)
