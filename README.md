@@ -35,4 +35,5 @@
 27. [Anti Palindrome](https://github.com/iamabirakash/CODEFORCES/tree/main/Anti%20Palindrome) 1488
 28. [Exactly N plus 1 Values](https://github.com/iamabirakash/CODEFORCES/tree/main/Exactly%20N%20plus%201%20Values) 1499
 29. [Gcd of Subarrays](https://github.com/iamabirakash/CODEFORCES/tree/main/GCD) 1498
-30. [Total Correct Submissions](https://github.com/iamabirakash/CODEFORCES/tree/main/Total%20Correct%20Submissions)
+30. [Total Correct Submissions](https://github.com/iamabirakash/CODEFORCES/tree/main/Total%20Correct%20Submissions) 1499
+31. [String Deletions](https://github.com/iamabirakash/CODEFORCES/tree/main/String%20Deletions) 1882
